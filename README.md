@@ -6,23 +6,12 @@ Features
 🎮 Single & Double EliminationFull losers bracket with correct drop-down logic👆 Click to advanceClick a team name to declare the winner — they propagate automatically🖱️ Drag & dropSwap teams or entire match cards within a round🔢 Score trackingEnter scores per match — saved in the bracket state↺ UndoUp to 40 steps of history🔗 Shareable URLFull bracket state encoded in the URL hash — just paste and share📥 Download offlineOne-click download of a standalone BracketMaker.html❓ Interactive guideStep-by-step spotlight tour covering every feature✈️ Works offlineZero CDN requests, zero npm packages, zero build tools
 
 Quick Start
-Option A — Just use the file
+Just use the file
 
 Download BracketMaker.html from Releases
 Double-click it — opens in any browser
 Done. No install, no internet needed.
 
-Option B — GitHub Pages (hosted)
-
-Fork or clone this repo
-Go to Settings → Pages → Source → main branch / root
-Your bracket is live at https://<username>.github.io/<repo>/
-
-Option C — Run locally
-bashgit clone https://github.com/yourusername/bracketmaker.git
-cd bracketmaker
-# Open index.html in your browser — or serve it:
-npx serve .
 
 How to Use
 1. Setup
